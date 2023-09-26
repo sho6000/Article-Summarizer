@@ -1,0 +1,4 @@
+nltk==3.6.4
+textblob==0.15.3
+newspaper3k==0.2.8
+tk==0.1.0
